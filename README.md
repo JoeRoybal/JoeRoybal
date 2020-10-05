@@ -9,7 +9,7 @@
 ## I’m currently learning
 
 #### 📫 How to reach me:
-* [Website](https://joeroybal.com/)
+* [My Website](https://joeroybal.com/)
 * [GitHub](https://github.com/JoeRoybal)
 * [LinkedIn](https://www.linkedin.com/in/joe-roybal)
 
