@@ -1,5 +1,3 @@
-<img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo%20(2).png" width="75" height="75" align="center"/>
-
 <h1 align="center">Hi 👋, I'm Joe Roybal</h1>
 <h3 align="center">Computer Science Undergraduate and Cyber Security Enthusiast</h3>
 
@@ -9,7 +7,7 @@
 
 #### 📫 How to reach me :
 * **joewroybal@gmail.com**
-* [My Website](https://joeroybal.com/)
+* [https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white](https://joeroybal.com/)
 * [GitHub](https://github.com/JoeRoybal)
 * [LinkedIn](https://www.linkedin.com/in/joe-roybal)
 
