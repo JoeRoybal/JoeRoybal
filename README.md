@@ -8,7 +8,7 @@
 #### 📫 How to reach me :
 <p><a href="https://github.com/JoeRoybal" target="_blank"> <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/> <a/>
 <a href="https://www.linkedin.com/in/joe-roybal" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> <a/>
-<a href="https://joeroybal.com/" target="_blank"> <img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo%20(2).png" alt="My Website" width="20" height="20"/> <a/>
+<a href="https://joeroybal.com/" target="_blank"> <img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo%20(2).png" alt="My Website" width="35" height="35"/> <a/>
 </p>
 * **joewroybal@gmail.com**
 
