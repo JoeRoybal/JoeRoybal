@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/joe-roybal" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> <a/>
 <a href="https://joeroybal.com/" target="_blank"> <img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo%20(2).png" alt="My Website" width="35" height="35"/> <a/>
 </p>
+  
 **joewroybal@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
