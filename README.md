@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Roybal</h1>
 <h3 align="center">Computer Science Undergraduate and Cyber Security Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
 ## I’m currently learning **Programming Languages and Cyber Security**
 
