@@ -5,6 +5,8 @@
 
 #### 🌱 I’m currently learning **Programming Languages and Cyber Security**
 
+<!--START_SECTION:activity-->
+
 #### 📫 How to reach me :
 <p><a href="https://github.com/JoeRoybal" target="_blank"> <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/> <a/>
 <a href="https://www.linkedin.com/in/joe-roybal" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> <a/>
