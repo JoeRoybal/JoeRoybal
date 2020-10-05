@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joe Roybal</h1>
 <h3 align="center">Computer Science Undergraduate and Cyber Security Enthusiast</h3>
+<img href="website" img src="badge"/>
+<img href="https://github.com/JoeRoybal" img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img href="website" img src="badge"/>
+<img href="website" img src="badge"/>
+<img href="website" img src="badge"/>
+<img href="website" img src="badge"/>
+<img href="website" img src="badge"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
@@ -7,8 +14,7 @@
 
 #### 📫 How to reach me :
 * **joewroybal@gmail.com**
-* [https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white](https://joeroybal.com/)
-* [GitHub](https://github.com/JoeRoybal)
+* [Website](https://joeroybal.com/)
 * [LinkedIn](https://www.linkedin.com/in/joe-roybal)
 
 <h3 align="left">Connect with me:</h3>
