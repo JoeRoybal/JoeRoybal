@@ -6,6 +6,9 @@
 #### 🌱 I’m currently learning **Programming Languages and Cyber Security**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/2) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
+2. ❗️ Closed issue [#2](https://github.com/JoeRoybal/CONTRACEPTION-CALCULATOR/issues/2) in [JoeRoybal/CONTRACEPTION-CALCULATOR](https://github.com/JoeRoybal/CONTRACEPTION-CALCULATOR)
+<!--END_SECTION:activity-->
 
 #### 📫 How to reach me :
 <p><a href="https://github.com/JoeRoybal" target="_blank"> <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/> <a/>
