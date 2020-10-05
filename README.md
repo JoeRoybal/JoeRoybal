@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joe Roybal</h1>
 <h3 align="center">Computer Science Undergraduate and Cyber Security Enthusiast</h3>
-<img href="website" img src="badge"/>
-<img href="https://github.com/JoeRoybal" img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img href="website" img src="badge"/>
+<a href="https://github.com/JoeRoybal" target="_blank"> <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/> <a/>
 <img href="website" img src="badge"/>
 <img href="website" img src="badge"/>
 <img href="website" img src="badge"/>
 <img href="website" img src="badge"/>
+<img href="website" img src="badge"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
