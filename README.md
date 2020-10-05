@@ -8,7 +8,7 @@
 #### 🌱 I’m currently learning **Programming Languages and Cyber Security**
 
 #### 📫 How to reach me :
-* [EMail](joewroybal@gmail.com)
+* **joewroybal@gmail.com**
 * [My Website](https://joeroybal.com/)
 * [GitHub](https://github.com/JoeRoybal)
 * [LinkedIn](https://www.linkedin.com/in/joe-roybal)
