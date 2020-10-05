@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo%20(2).png" width="50" height="50"/>
+#<img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo%20(2).png" width="50" height="50"/> Hi there 👋 
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
