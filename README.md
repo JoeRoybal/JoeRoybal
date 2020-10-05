@@ -1,5 +1,5 @@
 # Hi there 👋
-![Joe Logo](/images/logo.png)
+![Joe Logo](https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo.png)
 Format: ![Alt Text](url)
 
 - 🔭 I’m currently working on 
