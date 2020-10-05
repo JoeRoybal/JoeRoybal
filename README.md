@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe Roybal</h1>
 <h3 align="center">Computer Science Undergraduate and Cyber Security Enthusiast</h3>
 <a href="https://github.com/JoeRoybal" target="_blank"> <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"/> <a/>
-<img href="website" img src="badge"/>
-<img href="website" img src="badge"/>
-<img href="website" img src="badge"/>
-<img href="website" img src="badge"/>
-<img href="website" img src="badge"/>
+<a href="https://www.linkedin.com/in/joe-roybal" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/> <a/>
+<a href="https://joeroybal.com/" target="_blank"> <img src="https://img.shields.io/badge/{FIRST}-{SECONDARY}-%23{HEX-COLOR}.svg?&style=for-the-badge&logo={ICON}&logoColor=white" alt="My Website"/> <a/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
@@ -14,8 +11,6 @@
 
 #### 📫 How to reach me :
 * **joewroybal@gmail.com**
-* [Website](https://joeroybal.com/)
-* [LinkedIn](https://www.linkedin.com/in/joe-roybal)
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
