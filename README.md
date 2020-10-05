@@ -7,8 +7,8 @@
 
 ## I am currently working on ...
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/2) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
-2. ❗️ Closed issue [#2](https://github.com/JoeRoybal/CONTRACEPTION-CALCULATOR/issues/2) in [JoeRoybal/CONTRACEPTION-CALCULATOR](https://github.com/JoeRoybal/CONTRACEPTION-CALCULATOR)
+1. 💪 Opened PR [#3](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/3) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
+2. 💪 Opened PR [#2](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/2) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
 <!--END_SECTION:activity-->
 
 
