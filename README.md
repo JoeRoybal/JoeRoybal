@@ -1,6 +1,5 @@
 # Hi there 👋
-![Joe Logo](https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo.png =250x250)
-Format: ![Alt Text](url)
+<img src="https://github.com/JoeRoybal/JoeRoybal/blob/main/Logo.png" width="100" height="100"/>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
