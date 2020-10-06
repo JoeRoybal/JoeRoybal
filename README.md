@@ -7,8 +7,8 @@
 
 ## I am currently working on ...
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/5) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
-2. 💪 Opened PR [#4](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/4) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
+1. 🎉 Merged PR [#5](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/5) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
+2. 💪 Opened PR [#5](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/5) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
 <!--END_SECTION:activity-->
 
 
