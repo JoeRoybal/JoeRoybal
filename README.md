@@ -10,7 +10,7 @@
 1. 🎉 Merged PR [#22](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/22) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
 2. 💪 Opened PR [#22](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/22) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
 <!--END_SECTION:activity-->
-<p align="left"> <img src="https://www.codewars.com/users/JoeRoybal/badges/small" alt="joeroybal-codewars" /> </p>
+<p align="center"> <img src="https://www.codewars.com/users/JoeRoybal/badges/small" alt="joeroybal-codewars" /> </p>
 
 
 
