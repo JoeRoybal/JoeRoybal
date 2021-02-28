@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
-## I’m currently learning **Programming Languages and Cyber Security**
+## I’m currently Undertaking **Senior Seminar in Software Engineering**
 
 ## I am currently working on ...
 <!--START_SECTION:activity-->
