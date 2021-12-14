@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
-## I’m currently Undertaking **Personal Projects and Contract work**
+## I’m currently undertaking **personal projects and contract work**
 
 ## I am currently working on ...
 1. PokeDisplay
