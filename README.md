@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Joe Roybal</h1>
-<h3 align="center">Computer Science Undergraduate and Cyber Security Enthusiast</h3>
+<h3 align="center">Computer Scientist and Cyber Security Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
-## I’m currently Undertaking **Senior Seminar in Software Engineering**
+## I’m currently Undertaking **Personal Projects and Contract work**
 
 ## I am currently working on ...
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/22) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
-2. 💪 Opened PR [#22](https://github.com/SU-CS-Club/CodingAssessmentProblems/pull/22) in [SU-CS-Club/CodingAssessmentProblems](https://github.com/SU-CS-Club/CodingAssessmentProblems)
-<!--END_SECTION:activity-->
-<p align="left"> <img src="https://www.codewars.com/users/JoeRoybal/badges/small" alt="joeroybal-codewars" /> </p>
+1. PokeDisplay
 
 
 <!--
