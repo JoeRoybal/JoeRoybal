@@ -6,7 +6,7 @@
 ## I’m currently undertaking **personal projects and contract work**
 
 ## I am currently working on ...
-1. PokeDisplay
+1. [PokeDisplay](https://github.com/JoeRoybal/PokeDisplay)
 
 
 <!--
