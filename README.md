@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joeroybal" alt="joeroybal" /> </p>
 
-## I’m currently undertaking **personal projects and contract work**
+## I’m currently working at the University of Arkansas
 
 ## I am currently working on ...
 1. [PokeDisplay](https://github.com/JoeRoybal/PokeDisplay)
